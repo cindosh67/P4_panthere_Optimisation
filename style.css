@@ -534,6 +534,9 @@ h1 {
 .tc-white {
     color: #FFFFFF!important;
 }
+.tc-white-contact {
+    color: #000000!important;
+}
 
 .btn-atomic-tangerine {
     background: #F3976C;
