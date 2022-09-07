@@ -19,8 +19,7 @@ body {
 article,
 footer,
 header,
-nav,
-section {
+nav {
     display: block
 }
 
@@ -194,9 +193,10 @@ img {
 
 
 .img-responsive {
-    width: 270px;
+    display: block;
     max-width: 100%;
-    height: auto
+    height: auto;
+    margin:auto;
 }
 
 .sr-only {
