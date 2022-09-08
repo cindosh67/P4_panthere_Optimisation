@@ -313,7 +313,10 @@ button {
 .scrollToTop span {
     margin-top: 6px;
 }
-
+.showScrollTop {
+    font-size: 24px;
+    opacity: 1;
+}
 a[data-lightbox] {
     position: relative;
     display: block;
